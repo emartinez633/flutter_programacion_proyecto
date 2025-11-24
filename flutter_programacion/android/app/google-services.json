@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "757937816053",
+    "project_id": "fittruck-28864",
+    "storage_bucket": "fittruck-28864.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757937816053:android:50c335974008e861cc20bc",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFK07_FTBBQQQLz1rbIhMJc-h1lNWUTy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757937816053:android:b726b546643e06eecc20bc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_programacion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFK07_FTBBQQQLz1rbIhMJc-h1lNWUTy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
